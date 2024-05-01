@@ -1,0 +1,11 @@
+.container {
+  /* background-color: lightpink; */
+  max-width: 1170px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.title {
+  color: #020202;
+  font-size: 34px;
+}
